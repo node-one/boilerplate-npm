@@ -7,9 +7,9 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Joyce Aviles",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Joyce Aviles"
+	}
 }
